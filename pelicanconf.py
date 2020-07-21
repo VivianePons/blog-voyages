@@ -27,7 +27,7 @@ PLUGINS = [
     ]
 
 RANDOM = "random.html"
-STATIC_PATHS = ["images","fenetre.pdf","_redirects"]
+STATIC_PATHS = ["images","fenetre.pdf","lettre_darmanin.pdf","_redirects"]
 IGNORE_FILES = ['wp-content']
 
 DEFAULT_LANG = u'fr'
