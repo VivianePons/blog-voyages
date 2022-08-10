@@ -2,7 +2,7 @@ Category: Voyages
 Title: Bas Saint-Laurent
 Date: 2018-08-05 15:00 
 Author: viviane 
-Tags: Gaspésie 
+Tags: Gaspésie, Le Québec 
 Slug: bas-saint-laurent
 Status: published
 
