@@ -2,7 +2,7 @@ Category: Voyages
 Title: Montréal mon amour
 Date: 2017-06-17 15:00
 Author: viviane
-Tags: Escapades
+Tags: Escapades, Le Québec, Montréal 
 Slug: montreal-mon-amour
 Status: published
 
