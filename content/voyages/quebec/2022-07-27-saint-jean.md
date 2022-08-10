@@ -2,7 +2,7 @@ Category: Voyages
 Title: Lac Saint-Jean 
 Date: 2022-07-26 10:00
 Author: viviane
-Tags: Québec 
+Tags: Le Québec, Lac Saint-Jean et Côte Nord 
 Slug: 2022-07-27-saint-jean
 Status: published
 
