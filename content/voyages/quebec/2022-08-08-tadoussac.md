@@ -2,7 +2,7 @@ Category: Voyages
 Title: Tadoussac et Charlevoix
 Date: 2022-08-08 10:00
 Author: viviane
-Tags: Québec
+Tags: Le Québec, Lac Saint-Jean et Côte Nord
 Slug: 2022-08-08-tadoussac
 Status: published
 
