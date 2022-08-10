@@ -2,7 +2,7 @@ Category: Voyages
 Title: Parc National du Forillon 
 Date: 2018-08-13 15:00 
 Author: viviane 
-Tags: Gaspésie 
+Tags: Gaspésie, Le Québec
 Slug: parc-national-forillon
 Status: published
 
