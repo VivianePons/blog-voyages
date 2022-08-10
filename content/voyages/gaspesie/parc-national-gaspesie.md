@@ -2,7 +2,7 @@ Category: Voyages
 Title: Parc National de Gaspésie 
 Date: 2018-08-08 15:00 
 Author: viviane 
-Tags: Gaspésie 
+Tags: Gaspésie, Le Québec
 Slug: parc-national-gaspesie
 Status: published
 
