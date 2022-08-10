@@ -2,7 +2,7 @@ Category: Voyages
 Title: Percé et île de Bonaventure 
 Date: 2018-08-16 15:00 
 Author: viviane 
-Tags: Gaspésie 
+Tags: Gaspésie, Le Québec
 Slug: perce
 Status: published
 
