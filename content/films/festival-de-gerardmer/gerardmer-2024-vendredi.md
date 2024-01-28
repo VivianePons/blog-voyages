@@ -6,7 +6,7 @@ Tags: Festival de Gerardmer
 Slug: gerardmer-2024-vendredi
 Status: published
 
-Vendredi, nous partons pour une nouvelle grosse journée de films en commençant dès 11h à l'italien *Resvrgis* du réalisateur Francesco Carnesecchi. Un groupe de jeunes gens fait une partie de chasse en forêt et se trouve attaqués par une méchante bête. Rien de révolutionnaire mais efficace slasher avec une intrigue et des personnages bien construits. Le genre de films qu'on apprécie en festival même si on risque de l'oublier.
+Vendredi, nous partons pour une nouvelle grosse journée de films en commençant dès 11h avec l'italien *Resvrgis* du réalisateur Francesco Carnesecchi. Un groupe de jeunes gens fait une partie de chasse en forêt et se trouve attaqués par une méchante bête. Rien de révolutionnaire mais efficace slasher avec une intrigue et des personnages bien construits. Le genre de films qu'on apprécie en festival même si on risque de l'oublier.
 
 Après notre pause déjeuner, nous découvrons la pépite du festival cette année : le film québécois hors compétition *Vampire humaniste cherche suicidaire consentant* de la réalisatrice Ariane Louis-Seize. On suit une jeune vampire qui fait le malheur de sa famille car elle se refuse à tuer pour se nourrir. L'histoire est racontée avec finesse et humour comme quand on suit son initiation avec sa cousine qui choisit comme victimes des mecs relous à la sortie des boîtes de nuit. La jeune vampire se lie d'amitié avec un garçon suicidaire qui se propose comme victime consentante. Le film tient ses promesses jusqu'au bout entre humour noir et amour adolescent.
 
