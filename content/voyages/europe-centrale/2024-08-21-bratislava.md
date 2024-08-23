@@ -3,7 +3,7 @@ Title: Bratislava
 Date: 2024-08-21 8:30
 Author: viviane
 Tags: Europe centrale, Slovaquie
-Slug: 2024-08-19-bratislava
+Slug: 2024-08-21-bratislava
 Status: published
 
 C'est le début de la fin du voyage. Ce matin, nous rangeons toutes nos affaires et réorganisons nos sacs. Non seulement, nous quittons notre location mais allons bientôt rendre la voiture. Nous roulons vers Bratislava. Pour la première fois, le temps est légèrement couvert et nous voyons même un peu de pluie.
